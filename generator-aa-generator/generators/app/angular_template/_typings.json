@@ -1,0 +1,15 @@
+{
+  "name": "<%= name %>",
+  "version": false,
+  "dependencies": {},
+  "ambientDependencies": {
+    "core-js": "registry:dt/core-js#0.9.7+20160215162030",
+    "node": "registry:dt/node#4.0.0+20160412142033",
+    "webpack": "registry:dt/webpack#1.12.9+20160321060707",
+    "zone.js": "registry:dt/zone.js#0.0.0+20160316155526"
+  },
+  "ambientDevDependencies": {
+    "source-map": "registry:dt/source-map#0.1.38+20151201114758",
+    "uglify-js": "registry:dt/uglify-js#2.6.1+20160316155526"
+  }
+}
